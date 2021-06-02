@@ -1,9 +1,9 @@
 # Alphacast.io
 Consultat test interview
 
----
+
 Esta carpeta es como generalmente trabajo con Scripts: Carpeta con Input (Data), Carpeta con Output (Plots, Tablas, etc), Scripts divididos por función (ej: 1.DataCleaning, 2.Analysis, etc), un Script CONSOLIDADO (contiene todos los Scripts anteriores) y un README.txt que explica como funciona
----
+
 
 RUN: Hay dos formas de correr el archivo
 
